@@ -11,7 +11,7 @@
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
     cursor: pointer;
-    color: black;
+    color: rgb(214, 233, 244);
     border: 2px solid #d5d2e0;
   }
   
